@@ -1,4 +1,4 @@
-Developed a ful-stack job portal using the MERN stack, enabling users to
+Developed a full-stack job portal using the MERN stack, enabling users to
  register and log in as either students or recruiters. The portal alows students to
  browse job listings, apply for positions, and manage their applications.
  Recruiters, on the other hand, can create company profiles, post job
